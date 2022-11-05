@@ -1,2 +1,0 @@
-# secondinternpractical
-Physical practical json
